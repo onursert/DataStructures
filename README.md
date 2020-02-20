@@ -55,6 +55,8 @@
 <h2>Algorithm Analysis</h2>
 <p>There is a program for finding prime numbers with 2 ways in here. First way is easy way to find it and its Big O notation is O(n^1/2), second way is hard way to find it and its Big O notation is O(n).</p>
 <img src="findPrimeNumbers.gif">
+<p>Find Prime Numbers App doesn't require installation.</p>
+<a href="https://github.com/onursert/DataStructures/raw/master/Algorithm%20Analysis/findPrimeNumbers/findPrimeNumbers.exe">Download Find Prime Numbers App</a>
 
 <h2>Graph</h2>
 <ul>
@@ -183,14 +185,18 @@
   
   <li>
     <h3>Factorial</h3>
-    <p>There is a program for calculating factorial with 2 ways in here. First way uses recursion, second way uses iteration. </p>
+    <p>There is a program for calculating factorial with 2 ways in here. First way uses recursion, second way uses iteration.</p>
     <img src="factorial.png">
+    <p>Factorial app doesn't require installation.</p>
+    <a href="https://github.com/onursert/DataStructures/raw/master/Recursion/factorial/factorial.exe">Download Factorial App</a>
   </li>
   
   <li>
     <h3>Fibonacci</h3>
-    <p>There is a program for calculating fibonacci numbers sequence with 2 ways in here. First way uses recursion and its Big O notation is O((1.1680)^n) (Golden Ratio), second way uses iteration and its Big O notation is O(n). </p>
+    <p>There is a program for calculating fibonacci numbers sequence with 2 ways in here. First way uses recursion and its Big O notation is O((1.1680)^n) (Golden Ratio), second way uses iteration and its Big O notation is O(n).</p>
     <img src="fibonacci.gif">
+    <p>Fibonacci App doesn't require installation.</p>
+    <a href="https://github.com/onursert/DataStructures/raw/master/Recursion/fibonacci/fibonacci.exe">Download Fibonacci App</a>
   </li>
   
 </ul>
